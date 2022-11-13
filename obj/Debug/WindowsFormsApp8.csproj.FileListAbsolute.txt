@@ -1,0 +1,13 @@
+E:\Pictures\step\VS\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+E:\Pictures\step\VS\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+E:\Pictures\step\VS\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Basic_Window.resources
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+E:\Pictures\step\VS\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
